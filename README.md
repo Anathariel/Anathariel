@@ -7,7 +7,7 @@
 
 <p align="center"><em>I may be a raccoon in my lifestyle, but my code is clean.</em></p>
 <figure align="center">
-  <img src="your-image-file-name.png" alt="Anathariel logo" width="500"/>
+  <img src="Anathariel logo.png" alt="Anathariel logo" width="500"/>
 </figure>
 
 <!--
