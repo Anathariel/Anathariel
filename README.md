@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" border-radius="25px">
   <img src="Anathariel Logo.png" alt="Anathariel logo" width="500"/>
 </p>
 <p align="center"> Hi there 👋 I'm dealing with health stuff but I will be back shortly ✨</p>
