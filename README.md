@@ -1,4 +1,11 @@
 ## Hi there 👋 I'm dealing with health stuff but I will be back shortly ✨
+<p align="center">
+  ⊱༒︎ 🎀 CSS/SCSS | 🧱 HTML | ⚡ JavaScript | 🌿 Vue.js | 🧩 PHP | 🎼 Symfony | 💾 MySQL ༒︎⊰
+</p>
+
+<p align="center">────୨ৎ────</p>
+
+<p align="center"><em>I may be a raccoon in my lifestyle, but my code is clean.</em></p>
 
 <!--
 **Anathariel/Anathariel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
