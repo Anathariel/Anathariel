@@ -1,5 +1,5 @@
-<p align="center" border-radius="25px">
-  <img src="Anathariel Logo.png" alt="Anathariel logo" width="500"/>
+<p align="center">
+  <img src="Anathariel Logo.png" alt="Anathariel logo" width="500" style="border-radius: 20px;"/>
 </p>
 <p align="center"> Hi there 👋 I'm dealing with health stuff but I will be back shortly ✨</p>
 <p align="center">
