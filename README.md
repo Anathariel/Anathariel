@@ -6,6 +6,9 @@
 <p align="center">────୨ৎ────</p>
 
 <p align="center"><em>I may be a raccoon in my lifestyle, but my code is clean.</em></p>
+<figure align="center">
+  <img src="your-image-file-name.png" alt="Anathariel logo" width="500"/>
+</figure>
 
 <!--
 **Anathariel/Anathariel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
