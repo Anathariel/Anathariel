@@ -1,7 +1,7 @@
-<figure align="center">
+<p align="center">
   <img src="Anathariel Logo.png" alt="Anathariel logo" width="500"/>
-</figure>
-## Hi there 👋 I'm dealing with health stuff but I will be back shortly ✨
+</p>
+<p align="center"> Hi there 👋 I'm dealing with health stuff but I will be back shortly ✨</p>
 <p align="center">
   ⊱༒︎ 🎀 CSS/SCSS | 🧱 HTML | ⚡ JavaScript | 🌿 Vue.js | 🧩 PHP | 🎼 Symfony | 💾 MySQL ༒︎⊰
 </p>
